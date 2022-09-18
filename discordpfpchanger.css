@@ -2,6 +2,6 @@
 		--pfp: url('your-link');
 	}
 	
-	.avatar-b5OQ1N[src*="556120718669119499"] {
+	.avatar-b5OQ1N[src*="your-id"] {
 		content: var(--pfp);
 	}
