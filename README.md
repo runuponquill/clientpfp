@@ -4,7 +4,7 @@ Changes your Discord profile picture on the client (which means that you can use
 *Should apply to all avatar elements.*
 
 ## Usage
-- Go to the file ([Travel](https://github.com/GUIDEVELOCI/discord-pfp-changer/blob/main/discordpfpchanger.css)) and copy the code.
+- [Go to the file](https://github.com/GUIDEVELOCI/discord-pfp-changer/blob/main/discordpfpchanger.css)) and copy the code.
 - Paste it into Custom CSS or Stylish, Stylus, Amino, or any other alternatives.
 - Change the `--pfp` url to your link.
 - Copy your Discord ID and replace `your-id` with the text copied and that's it.
