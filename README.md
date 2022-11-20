@@ -1,5 +1,5 @@
-# Clientsided Discord PFP Changer
-Changes your Discord profile picture on the client (which means that you can use `.gifs` and animated files.)
+# ClientPfp
+Changes your Discord profile picture on your client.
 
 *Should apply to all avatar elements.*
 
